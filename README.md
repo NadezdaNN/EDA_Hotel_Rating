@@ -14,7 +14,7 @@
 6. Обучение модели, получение итоговой метрики
 
 ### Как установить проект
-Выполнить следующие команды в терминале VS Code:
+Выполнить следующие команды в терминале:
 1. git clone https://github.com/NadezdaNN/HomeworkFS_Project-3
 2. pip install -r requirements.txt
 3. Установить недостающие модули через pip install
